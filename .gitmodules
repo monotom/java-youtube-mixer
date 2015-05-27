@@ -1,0 +1,3 @@
+[submodule "lib/html-youtube-mixer"]
+	path = lib/html-youtube-mixer
+	url = git@github.com:monotom/html-youtube-mixer.git
